@@ -1,0 +1,1 @@
+This is a game for two players, X (user) and O (computer), Players take turns marking the spaces in a n×n grid. User can choose grid size "n" befor game is starting. The player who succeeds in placing "n" of their marks in a horizontal, vertical, or diagonal row is the winner.
